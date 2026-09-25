@@ -1,0 +1,8 @@
+{
+  "name": "course-toolkit",
+  "description": "Skills for the IFRI/UAC & PIGIER course-rebranding and mémoire-writing workflow: scaffold new course repos from Notion exports, and check thesis PDFs against the writing guidelines.",
+  "author": {
+    "name": "John Aoga",
+    "email": "johnaoga@gmail.com"
+  }
+}

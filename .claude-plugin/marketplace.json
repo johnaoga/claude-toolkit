@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "johnaoga-claude-toolkit",
+  "description": "John Aoga's personal Claude Code skills/plugins for his teaching workflow (IFRI/UAC & PIGIER course rebranding, mémoire writing guidelines).",
+  "owner": {
+    "name": "John Aoga",
+    "email": "johnaoga@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "course-toolkit",
+      "description": "Scaffold new course repos from Notion exports (matching the pythonr gold-standard Sphinx/GitHub-Pages structure), and check mémoire/thesis PDFs against the writing guidelines.",
+      "source": "./plugins/course-toolkit",
+      "category": "education"
+    }
+  ]
+}
