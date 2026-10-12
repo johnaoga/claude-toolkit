@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "johnaoga-claude-toolkit",
-  "description": "John Aoga's personal Claude Code skills/plugins for his teaching workflow (IFRI/UAC & PIGIER course rebranding, mémoire writing guidelines).",
+  "description": "John Aoga's personal Claude Code skills/plugins for his teaching workflow (IFRI/UAC & PIGIER course rebranding, mémoire writing guidelines, Manim algorithm-explainer videos).",
   "owner": {
     "name": "John Aoga",
     "email": "johnaoga@gmail.com"
@@ -11,6 +11,12 @@
       "name": "course-toolkit",
       "description": "Scaffold new course repos from Notion exports (matching the pythonr gold-standard Sphinx/GitHub-Pages structure), and check mémoire/thesis PDFs against the writing guidelines.",
       "source": "./plugins/course-toolkit",
+      "category": "education"
+    },
+    {
+      "name": "manim-explainer",
+      "description": "Author episodes of the Manim algorithm-explainer video series: scenario from the book's worked example, manim-voiceover code from the approved scenario, and headless render validation.",
+      "source": "./plugins/manim-explainer",
       "category": "education"
     }
   ]
