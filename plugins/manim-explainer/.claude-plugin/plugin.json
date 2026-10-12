@@ -1,0 +1,8 @@
+{
+  "name": "manim-explainer",
+  "description": "Skills for John Aoga's Manim algorithm-explainer video series: write an episode scenario grounded in the book's worked example, generate the manim-voiceover code from the approved scenario, and validate an episode with a headless render.",
+  "author": {
+    "name": "John Aoga",
+    "email": "johnaoga@gmail.com"
+  }
+}
